@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8383756b-d11b-498f-89a9-3a0ed01fdd50" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/06_Redefining_selection/61_command.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_Aggerate_Function/71_command.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_Datatypes/81_Data_types.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_logical_operators/91_command.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_One_to_many/101_Type of data relationship.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_String_function/51_command.md" beforeDir="false" afterPath="$PROJECT_DIR$/05_String_function/51_command.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,39 +19,20 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/05_String_function/51_command.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="393">
-                <caret line="78" column="20" lean-forward="true" selection-start-line="78" selection-start-column="20" selection-end-line="78" selection-end-column="20" />
-              </first_editor>
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
+        <entry file="file://$PROJECT_DIR$/a.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/06_Redefining_selection/61_command.md">
+        <entry file="file://$PROJECT_DIR$/09_logical_operators/91_command.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="481">
-                <caret line="58" column="17" lean-forward="true" selection-start-line="58" selection-start-column="17" selection-end-line="58" selection-end-column="17" />
-              </first_editor>
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/07_Aggerate_Function/71_command.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="799">
-                <caret line="47" column="3" selection-start-line="47" selection-start-column="3" selection-end-line="47" selection-end-column="3" />
+              <first_editor relative-caret-position="611">
+                <caret line="64" column="3" selection-start-line="64" selection-start-column="3" selection-end-line="64" selection-end-column="3" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -63,24 +42,15 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/08_Datatypes/81_Data_types.md">
+        <entry file="file://$PROJECT_DIR$/10_One_to_many/101_Type of data relationship.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="628">
-                <caret line="83" column="45" selection-start-line="83" selection-start-column="45" selection-end-line="83" selection-end-column="45" />
+              <first_editor relative-caret-position="544">
+                <caret line="32" selection-start-line="32" selection-end-line="32" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
               </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/a.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -109,6 +79,9 @@
         <option value="$PROJECT_DIR$/07_Aggerate_Function/command.md" />
         <option value="$PROJECT_DIR$/07_Aggerate_Function/71_command.md" />
         <option value="$PROJECT_DIR$/08_Datatypes/81_Data_types.md" />
+        <option value="$PROJECT_DIR$/09_logical_operators/91_command.py" />
+        <option value="$PROJECT_DIR$/09_logical_operators/91_command.md" />
+        <option value="$PROJECT_DIR$/10_One_to_many/101_Type of data relationship.md" />
       </list>
     </option>
   </component>
@@ -126,7 +99,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Course" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -137,12 +109,18 @@
             <path>
               <item name="co-ban-ve-mysql" type="b2602c69:ProjectViewProjectNode" />
               <item name="co-ban-ve-mysql" type="462c0819:PsiDirectoryNode" />
-              <item name="08_Datatypes" type="462c0819:PsiDirectoryNode" />
+              <item name="09_logical_operators" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="co-ban-ve-mysql" type="b2602c69:ProjectViewProjectNode" />
+              <item name="co-ban-ve-mysql" type="462c0819:PsiDirectoryNode" />
+              <item name="10_One_to_many" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -253,11 +231,47 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/08_Datatypes/81_Data_types.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="529">
+            <caret line="83" column="45" selection-start-line="83" selection-start-column="45" selection-end-line="83" selection-end-column="45" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_Aggerate_Function/71_command.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="628">
+            <caret line="47" column="3" selection-start-line="47" selection-start-column="3" selection-end-line="47" selection-end-column="3" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_Redefining_selection/61_command.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="512">
+            <caret line="58" column="17" selection-start-line="58" selection-start-column="17" selection-end-line="58" selection-end-column="17" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/05_String_function/51_command.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="393">
-            <caret line="78" column="20" lean-forward="true" selection-start-line="78" selection-start-column="20" selection-end-line="78" selection-end-column="20" />
+            <caret line="78" column="20" selection-start-line="78" selection-start-column="20" selection-end-line="78" selection-end-column="20" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -272,11 +286,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06_Redefining_selection/61_command.md">
+    <entry file="file://$PROJECT_DIR$/09_logical_operators/91_command.md">
+      <provider editor-type-id="text-editor" />
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="481">
-            <caret line="58" column="17" lean-forward="true" selection-start-line="58" selection-start-column="17" selection-end-line="58" selection-end-column="17" />
+          <first_editor relative-caret-position="611">
+            <caret line="64" column="3" selection-start-line="64" selection-start-column="3" selection-end-line="64" selection-end-column="3" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -284,23 +299,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/07_Aggerate_Function/71_command.md">
+    <entry file="file://$PROJECT_DIR$/10_One_to_many/101_Type of data relationship.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="799">
-            <caret line="47" column="3" selection-start-line="47" selection-start-column="3" selection-end-line="47" selection-end-column="3" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08_Datatypes/81_Data_types.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="628">
-            <caret line="83" column="45" selection-start-line="83" selection-start-column="45" selection-end-line="83" selection-end-column="45" />
+          <first_editor relative-caret-position="544">
+            <caret line="32" selection-start-line="32" selection-end-line="32" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
