@@ -1,6 +1,8 @@
 ## Type
 One to many: 1 tác giả có thể viết nhiều sách
+
 Primary Key: là cái để phân biệt các bản ghi các đối tượng với nhau
+
 Foreign Key: là cái id nối relationship từ bảng này sang bảng khác
 
 ## Join
